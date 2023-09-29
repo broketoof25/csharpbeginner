@@ -12,3 +12,17 @@ C:\Users\andre\Documents\CProjects\ExamplePrj\obj\Debug\net6.0\refint\ExamplePrj
 C:\Users\andre\Documents\CProjects\ExamplePrj\obj\Debug\net6.0\ExamplePrj.pdb
 C:\Users\andre\Documents\CProjects\ExamplePrj\obj\Debug\net6.0\ExamplePrj.genruntimeconfig.cache
 C:\Users\andre\Documents\CProjects\ExamplePrj\obj\Debug\net6.0\ref\ExamplePrj.dll
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\bin\Debug\net6.0\ExamplePrj.exe
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\bin\Debug\net6.0\ExamplePrj.deps.json
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\bin\Debug\net6.0\ExamplePrj.runtimeconfig.json
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\bin\Debug\net6.0\ExamplePrj.dll
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\bin\Debug\net6.0\ExamplePrj.pdb
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ExamplePrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ExamplePrj.AssemblyInfoInputs.cache
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ExamplePrj.AssemblyInfo.cs
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ExamplePrj.csproj.CoreCompileInputs.cache
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ExamplePrj.dll
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\refint\ExamplePrj.dll
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ExamplePrj.pdb
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ExamplePrj.genruntimeconfig.cache
+C:\Users\broketoof25\source\repos\csharp\csharpbeginner\ExamplePrj\obj\Debug\net6.0\ref\ExamplePrj.dll

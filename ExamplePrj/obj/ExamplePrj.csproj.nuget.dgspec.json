@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Documents\\CProjects\\ExamplePrj\\ExamplePrj.csproj": {}
+    "C:\\Users\\broketoof25\\source\\repos\\csharp\\csharpbeginner\\ExamplePrj\\ExamplePrj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Documents\\CProjects\\ExamplePrj\\ExamplePrj.csproj": {
+    "C:\\Users\\broketoof25\\source\\repos\\csharp\\csharpbeginner\\ExamplePrj\\ExamplePrj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Documents\\CProjects\\ExamplePrj\\ExamplePrj.csproj",
+        "projectUniqueName": "C:\\Users\\broketoof25\\source\\repos\\csharp\\csharpbeginner\\ExamplePrj\\ExamplePrj.csproj",
         "projectName": "ExamplePrj",
-        "projectPath": "C:\\Users\\andre\\Documents\\CProjects\\ExamplePrj\\ExamplePrj.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Documents\\CProjects\\ExamplePrj\\obj\\",
+        "projectPath": "C:\\Users\\broketoof25\\source\\repos\\csharp\\csharpbeginner\\ExamplePrj\\ExamplePrj.csproj",
+        "packagesPath": "C:\\Users\\broketoof25\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\broketoof25\\source\\repos\\csharp\\csharpbeginner\\ExamplePrj\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\broketoof25\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
