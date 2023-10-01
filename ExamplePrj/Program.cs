@@ -8,6 +8,40 @@ namespace ExamplePrj
     {
         static void Main(string[] args)
         {
+
+            //DateTime class
+            Console.WriteLine(DateTime.Now);
+
+            DateTime date = new DateTime();
+
+            //Timespan Class
+            TimeSpan timeSpan = new TimeSpan();
+
+            //DateTime Formatting
+            Console.WriteLine(DateTime.Now.ToString("MM/dd/yyyy"));
+            Console.WriteLine(DateTime.Now.ToString("dddd, dd MMMM yyyy"));
+            Console.WriteLine(DateTime.Now.ToString("dddd, dd MMMM yyyy HH:mm:ss"));
+            Console.WriteLine(DateTime.Now.ToString("MM/dd/yyy hh:mm tt"));
+            Console.WriteLine(DateTime.Now.ToUniversalTime().ToString("MM/dd/yyy hh:mm tt"));
+
+            //boxing stores a value type to a reference type of object
+            int example1 = 1;
+            object o = example1;
+
+            //unboxing the box object
+            int example2 = (int)o;
+
+            //implicit conversion
+            int num = 3;
+            float f = num;
+
+            //explicit conversion or 'cast'
+            float x = 1.5f;
+            int example = (int)x;
+
+
+
+
             //boolean flag technique
             bool flag = false;
             List<int> intList = new List<int>() { 1, 2, 3};
